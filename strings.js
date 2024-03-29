@@ -7,9 +7,6 @@ function removeCharacter(str) {
 
 
 //insert index at the fourth index
-let str = 'extravaganza'; 
-console.log(removeCharacter(str));
-
 const originalString = "The quick fox jumped over the lazy dog";
 const charToInsert = 'eat';
 const indexToInsertAt = 4;
@@ -36,6 +33,7 @@ let string1= "The pupils are reading in the library";
 let substring1 = "the";
 
 console.log(string1.includes(substring1));
+
 
 let string2= "The child was sitting on the table before it fell";
 let substring2 = "sitting";
